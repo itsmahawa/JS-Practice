@@ -1,2 +1,2 @@
 # JS-Practice
-Assignment 2
+Day 2 of JS Practice
